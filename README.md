@@ -1,9 +1,11 @@
 # Database-Veterinary-Hospital
 Information Systems and Databases - Projects
 
-Change every file that requires it to your access credentials and upload them to your database
-Then run on the command line
+These assignments concern the development of an information system database that supports a large veterinary hospital specialized on companion animals.
 
-source begin.sql
+    Change every file that requires it to your access credentials and upload them to your database
+    Then run on the command line
+
+    source begin.sql
 
     -> this initializes everything, including triggers and stuff
